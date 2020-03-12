@@ -16,6 +16,7 @@ public class LoginTest extends BaseLib {
 		loadWebUrl();
 		page.initialize(driver);
 		System.out.println(page.getWebtitle());
+		
 	}
 	
 	

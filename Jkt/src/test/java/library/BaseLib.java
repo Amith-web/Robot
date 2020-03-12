@@ -20,7 +20,7 @@ public static WebDriver driver;
 	
 	public void loadWebUrl() {
 		//driver.get("http://demowebshop.tricentis.com/");
-		driver.get("http////demowebshop.tricentis.com/");
+		driver.get("https://www.google.com/");
 		driver.manage().window().maximize();
 	}
 	
